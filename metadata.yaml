@@ -9,6 +9,9 @@ contributor:
     gutenberg_agent_id: '39128'
     url: http://www.gutenberg.org/2009/agents/39128
     wikipedia: https://fi.wikipedia.org/wiki/Maila_Talvio
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Andersen, H. C. (Hans Christian)
@@ -19,6 +22,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/2298
     wikipedia: https://en.wikipedia.org/wiki/Hans_Christian_Andersen
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/71071#Satuja-ja-tarinoita-VII
 gutenberg_issued: '2023-06-29'
 identifiers:
   gutenberg: '71071'
